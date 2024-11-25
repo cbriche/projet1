@@ -30,7 +30,7 @@
 3. **Configuration** :
    - Clonez le dépôt :
      ```bash
-     git clone https://github.com/username/mecamina.git
+     git clone https://github.com/cbriche/projet1.git
      ```
    - Configurez les connexions SQL dans le fichier `config/database.json`.
 
